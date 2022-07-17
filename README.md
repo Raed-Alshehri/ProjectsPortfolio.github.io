@@ -10,7 +10,7 @@ This is my projects portfolio website that I created to exhibit my projects. [Ra
 
 ## 🛠 Skills Used
 
-HTML, CSS, Github Pages
+HTML, CSS, SCSS, JavaScript, Github Pages
 ## 🚀 About Me
 👋 Hi, I’m @Raed-Alshehri
 
